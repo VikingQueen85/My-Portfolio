@@ -35,7 +35,7 @@ const About = () => (
             <SectionHeading>About Me</SectionHeading>
             <div className="flex flex-col md:flex-row items-center md:space-x-12">
                 <div className="md:w-1/3 mb-8 md:mb-0 flex justify-center">
-                    <img src="../images/IMG_5071.JPG" alt="Teresa Pahl (Tessa) Profile" className="rounded-full shadow-lg border-4 border-pink-200 w-64 h-64 object-cover" />
+                    <img src="/images/IMG_5071.JPG" alt="Teresa Pahl (Tessa) Profile" className="rounded-full shadow-lg border-4 border-pink-200 w-64 h-64 object-cover" />
                 </div>
                 <div className="md:w-2/3 text-lg leading-relaxed text-gray-700">
                     <p className="mb-4">
